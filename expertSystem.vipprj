@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<projectData-map debug_directory="Deb" final_directory="Exe" intermediate_directory="Obj" pattern="Console application" rules="Console" version="6">
+<projectData-map auto-formatting="true" debug_directory="Deb" description="expertSystem" final_directory="Exe" intermediate_directory="Obj" pattern="Console application" rules="Console" version="6">
   <include_directory-list>
     <include_directory>.</include_directory>
     <include_directory>$(ProDir)</include_directory>
@@ -71,6 +71,8 @@
     <item-map filename="$(ProDir)pfc\windowsApi\time_api\time_api.pack" />
     <item-map filename="$(ProDir)pfc\windowsApi\windowsAPI.pack" />
     <item-map filename="$(ProDir)pfc\windowsApi\WinErrors\winErrors.pack" />
+    <item-map filename="expSubMenu\expSubMenu.pack" />
+    <item-map filename="expSubQuestion\expSubQuestion.pack" />
     <item-map filename="main.manifest" />
     <item-map filename="main.pack" />
     <item-map filename="main.version" />

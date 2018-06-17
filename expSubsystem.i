@@ -1,15 +1,15 @@
 ﻿% Copyright
 
-class expertSubsystem : expertSubsystem
+interface expSubsystem
     open core
 
 domains
-    myTerm=
+    myTerm =
         categG(integer Категория, string Наименование);
         condG(integer Условие, integer Категория, string Параметр);
         tourG(integer Тур, string Название, integer* Вопросы).
 
 predicates
-    expert: (myTerm*).
+    expert : ().
 
-end class expertSubsystem
+end interface expSubsystem

@@ -3,3 +3,4 @@ Obj/
 *.dll
 *.exe
 *.prjgrd
+*.env
